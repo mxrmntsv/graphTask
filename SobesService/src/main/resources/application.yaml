@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://${DATASOURCE_HOST:localhost}:5444/relation
+    username: relation
+    password: relation
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+
+
+

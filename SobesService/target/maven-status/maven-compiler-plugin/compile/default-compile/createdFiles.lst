@@ -1,0 +1,10 @@
+com\application\sobesTask\service\UserService.class
+com\application\sobesTask\controller\RelationController.class
+com\application\sobesTask\dao\UserRepo.class
+com\application\sobesTask\event\AddEvent.class
+com\application\sobesTask\model\Graph$GraphBuilder.class
+com\application\sobesTask\UserServiceApplication.class
+com\application\sobesTask\model\Graph.class
+com\application\sobesTask\dao\UserDao.class
+com\application\sobesTask\entity\User$UserBuilder.class
+com\application\sobesTask\entity\User.class

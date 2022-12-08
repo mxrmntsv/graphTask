@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  postgres:
+    image: "postgres:11-alpine"
+    ports:
+      - 5444:5432
+    environment:
+      - POSTGRES_DB=relation
+      - POSTGRES_USER=relation
+      - POSTGRES_PASSWORD=relation
